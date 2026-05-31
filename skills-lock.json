@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "portfolio-site-generator": {
+      "source": "slavarch/portfolio-site",
+      "sourceType": "github",
+      "skillPath": "portfolio-site-generator/SKILL.md",
+      "computedHash": "ae7fa27d0dac1a95467c63f84e0a385d633a24c9f7e10d7ba27b522b1b9e4770"
+    }
+  }
+}
